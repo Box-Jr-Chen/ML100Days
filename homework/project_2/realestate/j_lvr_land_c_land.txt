@@ -1,8 +1,0 @@
-﻿編號,土地區段位置,土地移轉面積(平方公尺),使用分區或編定,權利人持分分母,權利人持分分子,移轉情形
-The serial number,land sector position,land shifting area square meter,the use zoning or compiles and checks,,,
-RPTNMLSJLHGGFBJ58CC,新庄子段,.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,,,
-RPRNMLSJLHGGFDJ58CC,文昌段,.00,都市：住,,,
-RPSNMLPJLHGGFDJ48DC,南湖段,26.72,都市：住,,,
-RPXOMLOJLHGGFBJ68CC,莊敬段,.00,都市：商,,,
-RPOOMLOJLHGGFDJ97CC,竹九段,.00,非都市：鄉村區 ; 非都市編定：乙種建築用地,,,
-RPXNMLOJLHGGFDJ78CC,忠信段,.00,都市：住,,,
