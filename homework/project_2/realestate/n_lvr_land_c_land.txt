@@ -1,0 +1,6 @@
+﻿編號,土地區段位置,土地移轉面積(平方公尺),使用分區或編定,權利人持分分母,權利人持分分子,移轉情形
+The serial number,land sector position,land shifting area square meter,the use zoning or compiles and checks,,,
+RPWNMLOJLHGGFCN98CC,鹿工段,19619.99,非都市：工業區 ; 非都市編定：丁種建築用地,,,
+RPUNMLKKLHGGFCN48CC,三豐段,2700.00,非都市：特定農業區 ; 非都市編定：農牧用地,,,
+RPSNMLSJLHGGFGN76CC,儒雅段,89.34,都市：住,,,
+RPRNMLSJLHGGFGN66CC,儒雅段,89.34,都市：住,,,

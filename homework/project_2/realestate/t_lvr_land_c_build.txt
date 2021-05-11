@@ -1,0 +1,6 @@
+﻿編號,屋齡,建物移轉面積平方公尺,主要用途,主要建材,建築完成日期,總層數,建物分層
+The serial number,room age,building shifting area square meter,the main use,main building materials,construction completes the date,total layer,building lamination
+RPUOMLPJLHGGFAT76CC,16,102.40,見其他登記事項,鋼筋混凝土造,94年1月13日,四層,
+RPQNMLMJLHGGFAT58CC,6,59.00,見其他登記事項,鋼筋混凝土造,104年5月6日,五層,
+RPTOMLPJLHGGFAT66CC,16,121.56,見其他登記事項,鋼筋混凝土造,94年1月13日,四層,
+RPROMLKKLHGGFDT98CC,15,206.43,店舖、住宅,鋼筋混凝土造,94年10月20日,四層,

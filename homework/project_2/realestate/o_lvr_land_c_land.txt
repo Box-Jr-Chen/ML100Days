@@ -1,0 +1,12 @@
+﻿編號,土地區段位置,土地移轉面積(平方公尺),使用分區或編定,權利人持分分母,權利人持分分子,移轉情形
+The serial number,land sector position,land shifting area square meter,the use zoning or compiles and checks,,,
+RPWPMLPJLHGGFAO56CC,崙子段,.00,都市：住,,,
+RPOSMLNJLHGGFAO48CC,信義段,.00,都市：其他:市場用地,,,
+RPUPMLPJLHGGFAO98CC,民富段,.00,都市：商,,,
+RPORMLSJLHGGFAO88CC,光復段,.00,都市：住,,,
+RPPNMLRJLHGGFAO48CC,竹蓮段,.00,都市：商,,,
+RPWQMLSJLHGGFAO96CC,舊社段,.00,都市：住,,,
+RPQQMLNJLHGGFAO48CC,中山段三小段,.00,都市：商,,,
+RPRRMLNJLHGGFAO68CC,中華段,.00,都市：其他:住商混合區,,,
+RPOPMLSJLHGGFAO68CC,中華段,.00,都市：其他:住商混合區,,,
+RPPNMLKKLHGGFAO87CC,光華段,5.43,都市：商,,,

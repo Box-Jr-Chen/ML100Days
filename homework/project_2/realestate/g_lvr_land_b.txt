@@ -1,0 +1,15 @@
+﻿鄉鎮市區,交易標的,土地區段位置建物區段門牌,土地移轉總面積平方公尺,都市土地使用分區,非都市土地使用分區,非都市土地使用編定,交易年月日,交易筆棟數,移轉層次,總樓層數,建物型態,主要用途,主要建材,建築完成年月,建物移轉總面積平方公尺,建物現況格局-房,建物現況格局-廳,建物現況格局-衛,建物現況格局-隔間,有無管理組織,總價元,單價元平方公尺,車位類別,車位移轉總面積平方公尺,車位總價元,備註,編號
+The villages and towns urban district,transaction sign,land sector position building sector house number plate,land shifting total area square meter,the use zoning or compiles and checks,the non-metropolis land use district,non-metropolis land use,transaction year month and day,transaction pen number,shifting level,total floor number,building state,main use,main building materials,construction to complete the years,building shifting total area,Building present situation pattern - room,building present situation pattern - hall,building present situation pattern - health,building present situation pattern - compartmented,Whether there is manages the organization,total price NTD,the unit price (NTD / square meter),the berth category,berth shifting total area square meter,the berth total price NTD,the note,serial number
+三星鄉,房地(土地+建物),大洲二段781~810地號,149.76,,特定農業區,甲種建築用地,1100224,土地3建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,167.97,3,2,3,有,無,8500000,50604,,0.0,0,,RPTNMLKKLHGGFAG37CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,86.8,,特定農業區,甲種建築用地,1100131,土地1建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,159.6,3,2,3,有,無,7580000,47494,,0.0,0,,RPVNMLKKLHGGFAG57CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,150.12,,特定農業區,甲種建築用地,1100112,土地3建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,165.22,3,2,3,有,無,8580000,51931,,0.0,0,,RPWNMLKKLHGGFAG67CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,112.11,,特定農業區,甲種建築用地,1091225,土地1建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,196.96,3,2,3,有,無,8580000,43562,,0.0,0,,RPXNMLKKLHGGFAG77CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,86.81,,特定農業區,甲種建築用地,1091228,土地1建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,159.6,3,2,3,有,無,7580000,47494,,0.0,0,,RPOOMLKKLHGGFAG96CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,86.81,,特定農業區,甲種建築用地,1091215,土地1建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,159.6,3,2,3,有,無,7420000,46491,,0.0,0,,RPPOMLKKLHGGFAG07CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,91.33,,特定農業區,甲種建築用地,1091216,土地1建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,159.6,3,2,3,有,無,7380000,46241,,0.0,0,,RPQOMLKKLHGGFAG17CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,94.5,,特定農業區,甲種建築用地,1091216,土地1建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,159.6,3,2,3,有,無,7580000,47494,,0.0,0,,RPSOMLKKLHGGFAG37CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,94.5,,特定農業區,甲種建築用地,1091221,土地1建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,159.6,3,2,3,有,無,7580000,47494,,0.0,0,,RPTOMLKKLHGGFAG47CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,94.5,,特定農業區,甲種建築用地,1091226,土地1建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,159.6,3,2,3,有,無,7580000,47494,,0.0,0,,RPUOMLKKLHGGFAG57CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,121.17,,特定農業區,甲種建築用地,1091215,土地1建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,203.05,3,2,3,有,無,9080000,44718,,0.0,0,,RPVOMLKKLHGGFAG67CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,150.12,,特定農業區,甲種建築用地,1091225,土地3建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,165.22,3,2,3,有,無,8300000,50236,,0.0,0,,RPWOMLKKLHGGFAG77CB
+三星鄉,房地(土地+建物),大洲二段781~810地號,192.78,,特定農業區,甲種建築用地,1091226,土地2建物1車位0,全,3,透天厝,住家用,鋼筋混凝土造,,216.45,3,2,3,有,無,10580000,48880,,0.0,0,,RPXOMLKKLHGGFAG87CB

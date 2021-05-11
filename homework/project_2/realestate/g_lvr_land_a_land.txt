@@ -1,0 +1,299 @@
+﻿編號,土地區段位置,土地移轉面積(平方公尺),使用分區或編定,權利人持分分母,權利人持分分子,移轉情形
+The serial number,land sector position,land shifting area square meter,the use zoning or compiles and checks,,,
+RPWOMLNLLHGGFAG18DA,北成段,98.00,都市：其他:住宅區,1,1,全筆移轉
+RPWOMLNLLHGGFAG18DA,北成段,93.00,都市：其他:住宅區,1,1,全筆移轉
+RPWNMLTJLHGGFAG48DA,碧候一段,2856.00,非都市：山坡地保育區 ; 非都市編定：林業用地,1,1,全筆移轉
+RPWNMLTJLHGGFAG48DA,碧候一段,4101.00,非都市：山坡地保育區 ; 非都市編定：林業用地,1,1,全筆移轉
+RPVNMLSKLHGGFAG38DA,腳段,917.00,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPROMLNLLHGGFAG67DA,太山段,34.95,非都市：特定農業區 ; 非都市編定：甲種建築用地,10,1,持分移轉
+RPQNMLTKKHGGFAG87DA,東光段,36.35,都市：其他:住宅區,500,32,持分移轉
+RPTOMLNLLHGGFAG87DA,太山段,34.95,非都市：特定農業區 ; 非都市編定：甲種建築用地,10,1,持分移轉
+RPROMLLKLHGGFAG37DA,大隱二段,32.37,非都市：特定農業區 ; 非都市編定：甲種建築用地,15,1,持分移轉
+RPSPMLQLLHGGFAG18DA,蘇港段,1213.65,都市：其他:商業區,1,1,全筆移轉
+RPSPMLQLLHGGFAG18DA,蘇港段,6.18,都市：其他:人行廣場用地,1,1,全筆移轉
+RPXNMLTLLHGGFAG78DA,大洲二段,33.35,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPSPMLQLLHGGFAG18DA,蘇港段,8.83,都市：其他:商業區,1,1,全筆移轉
+RPXNMLTLLHGGFAG78DA,大洲二段,128.92,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWOMLMJLHGGFAG87DA,北成段,43.00,都市：其他:住宅區,2,1,持分移轉
+RPWOMLMJLHGGFAG87DA,北成段,43.00,都市：其他:住宅區,2,1,持分移轉
+RPXOMLTLLHGGFAG88DA,人和一段,2503.26,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPXOMLTLLHGGFAG88DA,人和一段,2503.21,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPQNMLKMLHGGFAG27DA,人和一段,921.40,非都市：特定農業區 ; 非都市編定：農牧用地,3,1,持分移轉
+RPQNMLKMLHGGFAG27DA,人和一段,921.41,非都市：特定農業區 ; 非都市編定：農牧用地,3,1,持分移轉
+RPSOMLTLLHGGFAG38DA,新日興段,82.36,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPSOMLTLLHGGFAG38DA,新日興段,3.46,非都市：特定農業區 ; 非都市編定：甲種建築用地,13,1,持分移轉
+RPSOMLTLLHGGFAG38DA,新日興段,17.10,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPTOMLTLLHGGFAG48DA,田心段,63.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPOOMLTLLHGGFAG97DA,利成段,66.56,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPOOMLTLLHGGFAG97DA,利成段,18.97,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPOOMLTLLHGGFAG97DA,利成段,2.03,非都市：特定農業區 ; 非都市編定：甲種建築用地,18,1,持分移轉
+RPROMLKMLHGGFAG47DA,尚義段,86.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPROMLKMLHGGFAG47DA,尚義段,20.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPROMLKMLHGGFAG47DA,尚義段,27.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPROMLKMLHGGFAG47DA,尚義段,.09,非都市：特定農業區 ; 非都市編定：甲種建築用地,100000,5455,持分移轉
+RPRNMLKMLHGGFAG37DA,義成六段,112.50,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWNMLQLLHGGFBG48DA,金六結二段,28.25,都市：其他:住宅區,10000,392,持分移轉
+RPSOMLKKLHGGFBG47DA,公園段,21.26,都市：其他:健康休閒專用區四,10000,228,持分移轉
+RPPNMLKMLHGGFBG27DA,和睦段,111.20,都市：其他:住宅區,1,1,全筆移轉
+RPPOMLQLLHGGFBG87DA,玉田段,116.32,非都市：特定農業區 ; 非都市編定：甲種建築用地,10000,195,持分移轉
+RPROMLTLLHGGFBG38DA,新洲子段,981.90,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPQOMLQLLHGGFBG97DA,珍子滿力段擺厘小段,9.81,都市：其他:住宅區,10000,67,持分移轉
+RPPPMLTLLHGGFBG28DA,黎明段,2.06,都市：其他:住宅區,24,1,持分移轉
+RPPPMLTLLHGGFBG28DA,黎明段,2.06,都市：其他:住宅區,24,1,持分移轉
+RPPPMLTLLHGGFBG28DA,黎明段,104.57,都市：其他:住宅區,1,1,全筆移轉
+RPWPMLTLLHGGFBG98DA,中興段,104.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPXNMLKMLHGGFBG08DA,新洲子段,287.02,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPVNMLKMLHGGFBG87DA,宜福段,811.74,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPVNMLKMLHGGFBG87DA,宜福段,971.96,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPVNMLKMLHGGFBG87DA,宜福段,1150.88,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPPPMLKMLHGGFBG47DA,功勞段,2329.00,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPPPMLKMLHGGFBG47DA,功勞段,1630.00,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPXNMLTKLHGGFAG78EA,松羅段,400.00,非都市：山坡地保育區 ; 非都市編定：農牧用地,8617,400,持分移轉
+RPXNMLTKLHGGFAG78EA,松羅段,400.00,非都市：山坡地保育區 ; 非都市編定：農牧用地,8617,400,持分移轉
+RPXNMLTKLHGGFAG78EA,松羅段,800.00,非都市：山坡地保育區 ; 非都市編定：農牧用地,8617,800,持分移轉
+SPQNMLLMLHGGFBG67EA,外大溪段,149.20,都市：其他:道路用地,3,1,持分移轉
+RPQOMLKMLHGGFBG47DA,金泰段,89.81,都市：其他:農業區,1,1,全筆移轉
+RPQNMLLMLHGGFBG57EA,外大溪段,149.20,都市：其他:道路用地,3,1,持分移轉
+RPQOMLKMLHGGFBG47DA,金泰段,44.03,都市：其他:農業區,1,1,全筆移轉
+RPXNMLKMLHGGFAG08EA,香和段,58.18,都市：其他:商業區,1,1,全筆移轉
+RPXNMLKMLHGGFAG08EA,香和段,75.21,都市：其他:商業區,1,1,全筆移轉
+RPOOMLLMLHGGFBG37DA,頭圍一段,8.97,都市：其他:道路用地,1,1,全筆移轉
+RPRNMLLMLHGGFBG67EA,宜大段,91.32,都市：其他:住宅區,1,1,全筆移轉
+RPRNMLLMLHGGFBG67EA,宜大段,16.21,都市：其他:住宅區,1,1,全筆移轉
+RPTOMLLMLHGGFBG87DA,頭圍一段,100.54,都市：其他:商業區,1,1,全筆移轉
+RPVNMLLMLHGGFBG08EA,金六結三段,31.03,都市：其他:住宅區,10000,214,持分移轉
+RPSNMLLMLHGGFBG77EA,農權段,.62,都市：其他:住宅區,10000,61,持分移轉
+RPSNMLLMLHGGFBG77EA,農權段,23.48,都市：其他:住宅區,10000,61,持分移轉
+RPUNMLLMLHGGFBG97EA,艮門三段,2.21,都市：其他:商業區,1,1,全筆移轉
+RPUNMLLMLHGGFBG97EA,艮門三段,66.00,都市：其他:商業區,1000,997,持分移轉
+RPPNMLLMLHGGFBG37DA,水源段,.19,非都市：特定農業區 ; 非都市編定：甲種建築用地,24,1,持分移轉
+RPPNMLLMLHGGFBG37DA,水源段,.19,非都市：特定農業區 ; 非都市編定：甲種建築用地,24,1,持分移轉
+RPPNMLLMLHGGFBG37DA,水源段,8.70,非都市：特定農業區 ; 非都市編定：甲種建築用地,2,1,持分移轉
+RPPNMLLMLHGGFBG37DA,水源段,8.70,非都市：特定農業區 ; 非都市編定：甲種建築用地,2,1,持分移轉
+RPPNMLLMLHGGFBG37DA,水源段,30.02,非都市：特定農業區 ; 非都市編定：甲種建築用地,2,1,持分移轉
+RPPNMLLMLHGGFBG37DA,水源段,30.02,非都市：特定農業區 ; 非都市編定：甲種建築用地,2,1,持分移轉
+RPTNMLLJMHGGFBG57DA,金六結段金結小段,8.09,都市：其他:住宅區,100000,441,持分移轉
+RPTNMLLJMHGGFBG57DA,金六結段金結小段,.45,都市：其他:住宅區,100000,221,持分移轉
+RPXNMLLJMHGGFBG97DA,同結段,17.70,非都市：特定農業區 ; 非都市編定：甲種建築用地,25,5,持分移轉
+RPXNMLLJMHGGFBG97DA,同結段,17.96,非都市：特定農業區 ; 非都市編定：甲種建築用地,25,5,持分移轉
+RPXNMLLJMHGGFBG97DA,同結段,326.71,非都市：特定農業區 ; 非都市編定：甲種建築用地,9,3,持分移轉
+RPUOMLQLLHGGFBG38DA,復興段,1551.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPUOMLQLLHGGFBG38DA,復興段,21.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPUOMLPKLHGGFBG18DA,南津段,1030.12,都市：其他:農業區,1,1,全筆移轉
+RPSOMLLMLHGGFBG77DA,建業段,121.47,都市：其他:住宅區(住二),1,1,全筆移轉
+RPSOMLLMLHGGFBG77DA,建業段,17.38,都市：其他:住宅區(住二),36,1,持分移轉
+RPSOMLLMLHGGFBG77DA,建業段,13.15,都市：其他:住宅區(住二),36,1,持分移轉
+RPQNMLRKLHGGFBG87DA,朝陽段,1366.00,非都市：一般農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPQNMLLJMHGGFBG27DA,忠義段,15.41,都市：其他:住宅區,100000,526,持分移轉
+RPUOMLKMLHGGFAG77DA,隆昌段,235.79,都市：其他:保護區,6,1,持分移轉
+RPTOMLKMLHGGFAG67DA,五結段,86.00,都市：其他:住宅區,1,1,全筆移轉
+RPTOMLTLLHGGFBG58DA,湯仔城段,2.86,都市：其他:商業區,10000,20,持分移轉
+RPTOMLTLLHGGFBG58DA,湯仔城段,4.80,都市：其他:商業區,10000,20,持分移轉
+RPSNMLLMLHGGFAG57DA,八仙段,1097.00,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPOOMLLMLHGGFAG27DA,蘇聖段,22.51,都市：其他:商業區,10000,844,持分移轉
+RPPNMLLMLHGGFAG27DA,香和段,84.25,都市：其他:住宅區,1,1,全筆移轉
+RPPNMLLMLHGGFAG27DA,香和段,15.00,都市：其他:住宅區,1,1,全筆移轉
+RPPNMLLMLHGGFAG27DA,香和段,1.85,都市：其他:住宅區,18,1,持分移轉
+RPROMLLMLHGGFAG57DA,公正段,24.10,都市：其他:住宅區,100000,1055,持分移轉
+RPPNMLLJMHGGFAG07DA,加新段,332.20,非都市：鄉村區 ; 非都市編定：乙種建築用地,1015,332,持分移轉
+RPTOMLLMLHGGFAG77DA,武淵一段,930.51,非都市：風景區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPQNMLTLLHGGFAG08DA,尚義段,150.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPRNMLLJMHGGFAG27DA,新群一段,83.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPRNMLLJMHGGFAG27DA,新群一段,24.72,非都市：特定農業區 ; 非都市編定：甲種建築用地,500,35,持分移轉
+RPTNMLOLLHGGFAG87DA,朝陽段,500.00,非都市：鄉村區 ; 非都市編定：乙種建築用地,1,1,全筆移轉
+RPPOMLTLLHGGFAG08DA,鹿埔新段,68.26,非都市：鄉村區 ; 非都市編定：乙種建築用地,1,1,全筆移轉
+RPVNMLTLLHGGFAG58DA,香城段,76.00,非都市：鄉村區 ; 非都市編定：乙種建築用地,1,1,全筆移轉
+RPVNMLTLLHGGFAG58DA,香城段,17.00,非都市：鄉村區 ; 非都市編定：乙種建築用地,421,17,持分移轉
+RPPPMLQLLHGGFAG87DA,中華段,10.47,都市：其他:住宅區,72,1,持分移轉
+RPROMLQLLHGGFAG97DA,北成段,13.80,都市：其他:住宅區,10,1,持分移轉
+RPROMLQLLHGGFAG97DA,北成段,14.10,都市：其他:住宅區,10,1,持分移轉
+RPPOMLNJLHGGFAG27DA,和平段,31.57,都市：其他:住宅區,100000,11213,持分移轉
+RPPNMLQJMHGGFAG57DA,東和段,1177.87,都市：其他:農業區,1,1,全筆移轉
+RPPNMLQJMHGGFAG57DA,東和段,1341.04,都市：其他:農業區,1,1,全筆移轉
+RPWOMLNJLHGGFAG97DA,大吉二段,98.05,非都市：一般農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWOMLNJLHGGFAG97DA,大吉二段,14.55,非都市：一般農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWOMLNJLHGGFAG97DA,大吉二段,24.01,非都市：一般農業區 ; 非都市編定：農牧用地,52,1,持分移轉
+RPTOMLLKLHGGFAG57DA,公正段,7.52,都市：其他:住宅區,60000,288,持分移轉
+RPTOMLLKLHGGFAG57DA,公正段,.70,都市：其他:住宅區,60000,288,持分移轉
+RPPNMLQJLHGGFAG47DA,鎮安段,16.99,都市：其他:住宅區,200,23,持分移轉
+RPPNMLQJLHGGFAG47DA,鎮安段,16.99,都市：其他:住宅區,200,23,持分移轉
+RPQOMLLMLHGGFAG47DA,碧候一段,930.00,非都市：山坡地保育區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPPNMLQJLHGGFAG47DA,鎮安段,34.98,都市：其他:住宅區,2,1,持分移轉
+RPPNMLQJLHGGFAG47DA,鎮安段,34.98,都市：其他:住宅區,2,1,持分移轉
+RPPNMLQJLHGGFAG47DA,鎮安段,.77,都市：其他:道路用地,2000,175,持分移轉
+RPPNMLQJLHGGFAG47DA,鎮安段,.77,都市：其他:道路用地,2000,175,持分移轉
+RPWNMLPKLHGGFAG18DA,仁愛一段,13.88,非都市：特定農業區 ; 非都市編定：甲種建築用地,10000,169,持分移轉
+RPWNMLPKLHGGFAG18DA,仁愛一段,3.09,非都市：特定農業區 ; 非都市編定：甲種建築用地,10000,169,持分移轉
+RPSNMLNLLHGGFAG67DA,興東段,20.70,都市：其他:住宅區,10,1,持分移轉
+RPSNMLNLLHGGFAG67DA,興東段,20.70,都市：其他:住宅區,10,1,持分移轉
+RPOPMLLMLHGGFAG37DA,季新段,53.37,非都市：鄉村區 ; 非都市編定：乙種建築用地,10000,164,持分移轉
+RPWNMLPLLHGGFBG38DA,十六結新段,709.77,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPUNMLLMLHGGFAG77DA,竹林一段,65.10,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPSOMLLJMHGGFBG57DA,玉光一段,2167.85,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPVOMLKMLHGGFBG97DA,協天段,58.00,都市：其他:商業區,1,1,全筆移轉
+RPPOMLLMLHGGFBG47DA,深洲段,1458.12,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPWNMLLJMHGGFBG87DA,新金面段,22.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,188136,6469,持分移轉
+RPWNMLLJMHGGFBG87DA,新金面段,64.69,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWNMLLJMHGGFBG87DA,新金面段,65.83,非都市：特定農業區 ; 非都市編定：農牧用地,35,1,持分移轉
+RPWNMLLJMHGGFBG87DA,新金面段,.07,非都市：特定農業區 ; 非都市編定：水利用地,35,1,持分移轉
+RPVOMLLMLHGGFBG08DA,珍子滿力段擺厘小段,24.33,都市：其他:住宅區,10000,151,持分移轉
+RPTNMLQJMHGGFAG08EA,和平段,103.20,都市：其他:住宅區,1,1,全筆移轉
+RPQPMLKMLHGGFBG57DA,吉祥二段,6.33,都市：其他:農業區,20,1,持分移轉
+RPQPMLKMLHGGFBG57DA,吉祥二段,82.40,都市：其他:農業區,1,1,全筆移轉
+RPQPMLKMLHGGFBG57DA,吉祥二段,16.20,都市：其他:農業區,1,1,全筆移轉
+RPQPMLKMLHGGFBG57DA,吉祥二段,12.61,都市：其他:農業區,20,1,持分移轉
+RPXOMLQLLHGGFBG68DA,金六結一段,.11,都市：其他:住宅區,3974495,11447,持分移轉
+RPXOMLQLLHGGFBG68DA,金六結一段,36.43,都市：其他:住宅區,1000000,9528,持分移轉
+RPTOMLLJMHGGFBG67DA,新公園段,140.01,都市：其他:第二種住宅區,1,1,全筆移轉
+RPQOMLQJMHGGFBG87DA,新南段,2924.00,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPUOMLLJMHGGFBG77DA,和平段,181.92,都市：其他:住宅區(住二),1,1,全筆移轉
+RPUOMLLJMHGGFBG77DA,和平段,26.58,都市：其他:住宅區(住二),100,36,持分移轉
+RPVNMLQJMHGGFBG38EA,得石新段,1835.69,非都市：一般農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPPOMLLJMHGGFBG27DA,中興段,72.63,都市：其他:住宅區,100,53,持分移轉
+RPOPMLKMLHGGFBG37DA,吉祥二段,6.33,都市：其他:農業區,20,1,持分移轉
+RPOPMLKMLHGGFBG37DA,吉祥二段,16.20,都市：其他:農業區,1,1,全筆移轉
+RPOPMLKMLHGGFBG37DA,吉祥二段,85.12,都市：其他:農業區,1,1,全筆移轉
+RPOPMLKMLHGGFBG37DA,吉祥二段,12.61,都市：其他:農業區,20,1,持分移轉
+RPXOMLLJMHGGFBG18EA,壯濱一段,95.52,非都市：鄉村區 ; 非都市編定：乙種建築用地,1,1,全筆移轉
+RPRNMLQJMHGGFBG87DA,義結段,17.71,都市：其他:住宅區,10000,336,持分移轉
+SPVNMLQJMHGGFBG48EA,得石新段,90.93,非都市：一般農業區 ; 非都市編定：交通用地,1,1,全筆移轉
+RPWOMLLJMHGGFBG08EA,壯濱一段,90.85,非都市：鄉村區 ; 非都市編定：乙種建築用地,1,1,全筆移轉
+RPWOMLLJMHGGFBG08EA,壯濱一段,22.45,非都市：鄉村區 ; 非都市編定：乙種建築用地,2,1,持分移轉
+RPTNMLQJMHGGFBG18EA,五峰段,8.59,都市：其他:住宅區,10000,105,持分移轉
+RPOOMLQJMHGGFBG77EA,金六結段金結小段,168.00,都市：其他:住宅區,1,1,全筆移轉
+RPVOMLQJMHGGFBG48EA,忠義段,14.83,都市：其他:住宅區,941600,1516,持分移轉
+RPWOMLLJMHGGFBG97DA,新七賢段,1629.39,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPVNMLLMLHGGFAG97EA,永愛段,293.72,都市：其他:住宅區,10,3,持分移轉
+RPTNMLRJMHGGFBG18DA,艮門一段,26.72,都市：其他:住宅區,10000,242,持分移轉
+RPUOMLKMLHGGFBG97EA,金六結一段,.11,都市：其他:住宅區,3974495,11416,持分移轉
+RPUOMLKMLHGGFBG97EA,金六結一段,43.44,都市：其他:住宅區,1000000,4138,持分移轉
+RPPNMLQJMHGGFBG67DA,武營段,24.77,都市：其他:住宅區,10000,52,持分移轉
+RPROMLQJMHGGFBG97DA,珍子滿力段擺厘小段,20.76,都市：其他:住宅區,10000,64,持分移轉
+RPQOMLLJMHGGFBG37DA,吉祥二段,6.33,都市：其他:農業區,20,1,持分移轉
+RPQOMLLJMHGGFBG37DA,吉祥二段,85.03,都市：其他:農業區,1,1,全筆移轉
+RPQOMLLJMHGGFBG37DA,吉祥二段,16.20,都市：其他:農業區,1,1,全筆移轉
+RPQOMLLJMHGGFBG37DA,吉祥二段,12.61,都市：其他:農業區,20,1,持分移轉
+RPUNMLQJMHGGFAG18EA,新萬貴段,1.69,非都市：特定農業區 ; 非都市編定：甲種建築用地,12,1,持分移轉
+RPUNMLQJMHGGFAG18EA,新萬貴段,161.79,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPUNMLQJMHGGFAG18EA,新萬貴段,27.11,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPVNMLLJMHGGFAG77EA,保安段,141.19,都市：其他:道路用地,1,1,全筆移轉
+RPPOMLLJMHGGFAG27EA,永愛段,102.05,都市：其他:住宅區,1,1,全筆移轉
+RPRNMLRJMHGGFAG97EA,尾塹二段,2511.10,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPOOMLLJMHGGFBG17DA,阿蘭城段,155.54,非都市：鄉村區 ; 非都市編定：乙種建築用地,1,1,全筆移轉
+RPOOMLQJMHGGFAG67EA,保安段,101.64,都市：其他:住宅區,1,1,全筆移轉
+RPOOMLQJMHGGFAG67EA,保安段,4.07,都市：其他:住宅區,1,1,全筆移轉
+RPOOMLQJMHGGFAG67EA,保安段,1.91,都市：其他:住宅區,1,1,全筆移轉
+RPWNMLLMLHGGFBG08DA,慈安段,88.02,都市：其他:住宅區,1,1,全筆移轉
+RPXNMLQJMHGGFAG48EA,廣安段,1.21,非都市：特定農業區 ; 非都市編定：甲種建築用地,10000,74,持分移轉
+RPXNMLQJMHGGFAG48EA,廣安段,7.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,10000,120,持分移轉
+RPWOMLLMLHGGFBG18DA,壯東段,13.50,非都市：特定農業區 ; 非都市編定：甲種建築用地,2,1,持分移轉
+RPWOMLLMLHGGFBG18DA,壯東段,110.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPXOMLKMLHGGFBG18DA,吉祥二段,6.33,都市：其他:農業區,20,1,持分移轉
+RPXOMLKMLHGGFBG18DA,吉祥二段,75.88,都市：其他:農業區,1,1,全筆移轉
+RPXOMLKMLHGGFBG18DA,吉祥二段,22.73,都市：其他:農業區,1,1,全筆移轉
+RPXOMLKMLHGGFBG18DA,吉祥二段,12.61,都市：其他:農業區,20,1,持分移轉
+RPTNMLPJLHGGFBG87DA,烏石港段,19.98,都市：其他:住宅區,100000,241,持分移轉
+RPXNMLLJMHGGFAG87DA,永愛段,206.74,都市：其他:住宅區,1,1,全筆移轉
+RPTOMLQLLHGGFBG28DA,烏石港段,23.79,都市：其他:住宅區,100000,287,持分移轉
+RPUOMLLKLHGGFBG77DA,武營段,27.16,都市：其他:住宅區,10000,57,持分移轉
+RPSNMLQJMHGGFAG87DA,國民二段,75.03,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPQPMLLMLHGGFAG57DA,東安段,67.50,都市：其他:住宅區,2,1,持分移轉
+RPQPMLLMLHGGFAG57DA,東安段,67.50,都市：其他:住宅區,2,1,持分移轉
+RPQOMLNLLHGGFAG57DA,南昌段,22.86,都市：其他:住宅區,1,1,全筆移轉
+RPQNMLMJMHGGFAG27DA,義成八段,78.06,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPPNMLNJMHGGFAG27DA,利工段,71.23,非都市：工業區 ; 非都市編定：丁種建築用地,1,1,全筆移轉
+RPOOMLPJMHGGFAG47DA,東光段,15.02,都市：其他:住宅區,10000,72,持分移轉
+RPWNMLTLLHGGFAG68DA,義德段,980.74,都市：其他:農業區,1,1,全筆移轉
+RPWOMLRKLHGGFAG48DA,尾塹一段,97.06,非都市：特定農業區 ; 非都市編定：甲種建築用地,30000,2666,持分移轉
+RPQNMLMJLHGGFAG17DA,集慶段,175.47,都市：其他:住宅區,1,1,全筆移轉
+RPQOMLKMLHGGFAG37DA,水源段,26.90,非都市：特定農業區 ; 非都市編定：交通用地,4,1,持分移轉
+RPQOMLKMLHGGFAG37DA,水源段,802.19,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPUOMLQLLHGGFAG28DA,北成段,39.44,都市：其他:住宅區,16,1,持分移轉
+RPQOMLLKLHGGFAG27DA,十六份新段,47.20,非都市：特定農業區 ; 非都市編定：甲種建築用地,10000,378,持分移轉
+RPRPMLKKLHGGFAG37DA,學進段,16.53,都市：其他:倉儲區,70000,7050,持分移轉
+RPRPMLKKLHGGFAG37DA,學進段,3.31,都市：其他:住宅區,70000,813,持分移轉
+RPRPMLKKLHGGFAG37DA,學進段,302.38,都市：其他:住宅區,1,1,全筆移轉
+RPRNMLTLLHGGFAG18DA,南富段,14.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPRNMLTLLHGGFAG18DA,南富段,7.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPRNMLTLLHGGFAG18DA,南富段,57.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPRNMLTLLHGGFAG18DA,南富段,2.53,非都市：特定農業區 ; 非都市編定：甲種建築用地,15,1,持分移轉
+RPRNMLTLLHGGFAG18DA,南富段,2.73,非都市：特定農業區 ; 非都市編定：甲種建築用地,15,1,持分移轉
+RPVOMLQJMHGGFAG28DA,叭哩沙段,141.67,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPUNMLRKLHGGFAG18DA,國民一段,95.54,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPQNMLQJMHGGFAG67DA,興平段,75.86,都市：其他:住宅區,1,1,全筆移轉
+RPSNMLSJMHGGFAG08DA,仲岳段,5000.00,非都市：山坡地保育區 ; 非都市編定：林業用地,1,1,全筆移轉
+RPTOMLLKLHGGFBG67DA,艮門五段,859.21,都市：其他:商業區,1,1,全筆移轉
+RPXOMLLMLHGGFAG18DA,義成四段,3.25,都市：其他:住宅區,23,1,持分移轉
+RPXOMLLMLHGGFAG18DA,義成四段,9.50,都市：其他:住宅區,100,33,持分移轉
+RPXOMLLMLHGGFAG18DA,義成四段,91.91,都市：其他:住宅區,1,1,全筆移轉
+RPXOMLLMLHGGFAG18DA,義成四段,18.63,都市：其他:住宅區,1,1,全筆移轉
+RPPNMLSJMHGGFAG77DA,鎮安段,107.18,都市：其他:農業區,1,1,全筆移轉
+RPOPMLQJMHGGFAG67DA,五結段,80.00,都市：其他:住宅區,1,1,全筆移轉
+RPOPMLQJMHGGFAG67DA,五結段,6.00,都市：其他:住宅區,1,1,全筆移轉
+RPOPMLQJMHGGFAG67DA,五結段,4.00,都市：其他:住宅區,1,1,全筆移轉
+RPOPMLQJMHGGFAG67DA,五結段,17.00,都市：其他:住宅區,2,1,持分移轉
+RPOPMLQJMHGGFAG67DA,五結段,10.00,都市：其他:住宅區,2,1,持分移轉
+RPQNMLSJMHGGFAG87DA,信義段,33.60,都市：其他:住宅區,10,2,持分移轉
+RPVOMLPKLHGGFBG28DA,東村段,30.39,都市：其他:市場用地,1000000,6400,持分移轉
+RPVOMLPKLHGGFBG28DA,東村段,.09,都市：其他:道路用地,1000000,6400,持分移轉
+RPVOMLPKLHGGFBG28DA,東村段,.02,都市：其他:道路用地,1000000,6400,持分移轉
+RPVOMLPKLHGGFBG28DA,東村段,.01,都市：其他:市場用地,1000000,6400,持分移轉
+RPVOMLPKLHGGFBG28DA,東村段,9.63,都市：其他:道路用地,1000000,6400,持分移轉
+RPVOMLPKLHGGFBG28DA,東村段,7.37,都市：其他:道路用地,1000000,6400,持分移轉
+RPVOMLPKLHGGFBG28DA,東村段,45.57,都市：其他:公園用地,1000000,6400,持分移轉
+RPWNMLRJMHGGFAG48EA,大吉二段,1026.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPQQMLTLLHGGFBG48DA,乾門三段,89.26,都市：其他:住宅區,1,1,全筆移轉
+RPOQMLTLLHGGFBG28DA,公園段,21.26,都市：其他:健康休閒專用區四,10000,228,持分移轉
+RPQQMLTLLHGGFBG48DA,乾門三段,16.13,都市：其他:住宅區,1,1,全筆移轉
+RPQQMLTLLHGGFBG48DA,乾門三段,1.86,都市：其他:住宅區,36,1,持分移轉
+RPQQMLTLLHGGFBG48DA,乾門三段,1.69,都市：其他:住宅區,36,1,持分移轉
+RPQNMLSJMHGGFAG97EA,東光段,207.00,都市：其他:住宅區,1,1,全筆移轉
+RPQNMLSJMHGGFAG97EA,東光段,196.00,都市：其他:商業區,1,1,全筆移轉
+RPUNMLLMLHGGFBG87DA,金六結段金結小段,75.70,都市：其他:住宅區,1,1,全筆移轉
+RPUNMLLMLHGGFBG87DA,金六結段金結小段,20.26,都市：其他:住宅區,6998,2026,持分移轉
+RPUNMLLMLHGGFBG87DA,金六結段金結小段,1.30,都市：其他:住宅區,1,1,全筆移轉
+RPVNMLSJMHGGFAG48EA,米羅段,3284.50,非都市：山坡地保育區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPVNMLRJMHGGFAG38EA,和平段,7.62,都市：其他:住宅區,9,1,持分移轉
+RPVNMLRJMHGGFAG38EA,和平段,81.12,都市：其他:住宅區,1,1,全筆移轉
+RPVNMLRJMHGGFAG38EA,和平段,14.70,都市：其他:住宅區,1,1,全筆移轉
+RPSNMLRJMHGGFAG08EA,義成六段,2.69,非都市：特定農業區 ; 非都市編定：甲種建築用地,36,1,持分移轉
+RPSNMLRJMHGGFAG08EA,義成六段,2.41,非都市：特定農業區 ; 非都市編定：甲種建築用地,12,1,持分移轉
+RPSNMLRJMHGGFAG08EA,義成六段,71.39,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPVNMLQJMHGGFAG28EA,柯林二段,175.05,非都市：特定農業區 ; 非都市編定：水利用地,1,1,全筆移轉
+RPPOMLRJMHGGFAG87EA,蘇聖段,109.03,都市：其他:住宅區,1,1,全筆移轉
+RPPOMLRJMHGGFAG87EA,蘇聖段,11.28,都市：其他:住宅區,1,1,全筆移轉
+RPRNMLSJMHGGFAG08EA,季新段,53.40,非都市：鄉村區 ; 非都市編定：乙種建築用地,10000,65,持分移轉
+RPVNMLKMLHGGFAG87EA,十六份新段,182.56,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPVNMLKMLHGGFAG87EA,十六份新段,129.14,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWNMLKMLHGGFAG97EA,十六份新段,9.93,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWNMLKMLHGGFAG97EA,十六份新段,845.79,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPPNMLMJMHGGFBG27DA,美城段,.88,非都市：特定農業區 ; 非都市編定：甲種建築用地,24,1,持分移轉
+RPPNMLMJMHGGFBG27DA,美城段,92.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPPNMLMJMHGGFBG27DA,美城段,18.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPPPMLQJMHGGFBG87DA,中興段,15.96,都市：其他:住宅區,1,1,全筆移轉
+RPPPMLQJMHGGFBG87DA,中興段,37.14,都市：其他:住宅區,1,1,全筆移轉
+RPPPMLQJMHGGFBG87DA,中興段,36.92,都市：其他:住宅區,1,1,全筆移轉
+RPQNMLMJMHGGFBG37DA,金六結段七結小段,16.37,都市：其他:商業區,100000,2554,持分移轉
+RPQNMLMJMHGGFBG37DA,金六結段七結小段,.61,都市：其他:商業區,100000,2554,持分移轉
+RPQNMLMJMHGGFBG37DA,金六結段七結小段,.10,都市：其他:商業區,100000,2554,持分移轉
+RPRNMLMJMHGGFBG47DA,金六結段七結小段,15.65,都市：其他:商業區,100000,2441,持分移轉
+RPRNMLMJMHGGFBG47DA,金六結段七結小段,.59,都市：其他:商業區,100000,2441,持分移轉
+RPRNMLMJMHGGFBG47DA,金六結段七結小段,.10,都市：其他:商業區,100000,2441,持分移轉
+RPWNMLRJMHGGFBG48DA,鼻仔頭段,1377.49,非都市：特定農業區 ; 非都市編定：農牧用地,1,1,全筆移轉
+RPTOMLQJMHGGFBG18DA,武暖段,20.03,都市：其他:農業區,16,1,持分移轉
+RPWNMLQJMHGGFBG38DA,新興一段,39.44,都市：其他:住宅區,1,1,全筆移轉
+RPWNMLQJMHGGFBG38DA,新興一段,40.19,都市：其他:人行步道,1,1,全筆移轉
+RPTOMLQJMHGGFBG18DA,武暖段,3.66,都市：其他:農業區,16,1,持分移轉
+RPWNMLQJMHGGFBG38DA,新興一段,380.03,都市：其他:住宅區,1,1,全筆移轉
+RPTOMLQJMHGGFBG18DA,武暖段,86.59,都市：其他:農業區,1,1,全筆移轉
+RPTOMLQJMHGGFBG18DA,武暖段,25.70,都市：其他:農業區,1,1,全筆移轉
+RPOPMLQJMHGGFBG77DA,公園段,33.05,都市：其他:健康休閒專用區二,100000,1650,持分移轉
+RPPNMLRJMHGGFBG77DA,新福段,16.52,非都市：特定農業區 ; 非都市編定：農牧用地,23,1,持分移轉
+RPPNMLRJMHGGFBG77DA,新福段,20.43,非都市：特定農業區 ; 非都市編定：農牧用地,23,1,持分移轉
+RPPNMLRJMHGGFBG77DA,新福段,77.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPPNMLRJMHGGFBG77DA,新福段,20.14,非都市：特定農業區 ; 非都市編定：甲種建築用地,52738,6515,持分移轉
+RPPNMLRJMHGGFBG77DA,新福段,19.52,非都市：特定農業區 ; 非都市編定：甲種建築用地,52738,6515,持分移轉
+RPPNMLRJMHGGFBG77DA,新福段,1.96,非都市：特定農業區 ; 非都市編定：甲種建築用地,23,1,持分移轉
+RPUNMLRJMHGGFBG28DA,玉石段,16.18,都市：其他:住宅區,100000,923,持分移轉
+RPUNMLSJMHGGFBG48EA,延平段,440.00,都市：其他:農業區,1,1,全筆移轉
+RPRNMLNKMHGGFBG77EA,烏石港段,279.34,都市：其他:住宅區,1,1,全筆移轉

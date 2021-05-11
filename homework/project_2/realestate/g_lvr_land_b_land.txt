@@ -1,0 +1,22 @@
+﻿編號,土地區段位置,土地移轉面積(平方公尺),使用分區或編定,權利人持分分母,權利人持分分子,移轉情形
+The serial number,land sector position,land shifting area square meter,the use zoning or compiles and checks,,,
+RPPOMLKKLHGGFAG07CB,大洲二段,86.81,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPOOMLKKLHGGFAG96CB,大洲二段,86.81,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPTNMLKKLHGGFAG37CB,大洲二段,102.64,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPTNMLKKLHGGFAG37CB,大洲二段,23.00,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPTNMLKKLHGGFAG37CB,大洲二段,24.12,非都市：特定農業區 ; 非都市編定：甲種建築用地,4,1,持分移轉
+RPQOMLKKLHGGFAG17CB,大洲二段,91.33,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPSOMLKKLHGGFAG37CB,大洲二段,94.50,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPXNMLKKLHGGFAG77CB,大洲二段,112.11,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPUOMLKKLHGGFAG57CB,大洲二段,94.50,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPVNMLKKLHGGFAG57CB,大洲二段,86.80,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPTOMLKKLHGGFAG47CB,大洲二段,94.50,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWNMLKKLHGGFAG67CB,大洲二段,103.50,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWNMLKKLHGGFAG67CB,大洲二段,22.50,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWNMLKKLHGGFAG67CB,大洲二段,24.12,非都市：特定農業區 ; 非都市編定：甲種建築用地,4,1,持分移轉
+RPVOMLKKLHGGFAG67CB,大洲二段,121.17,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPXOMLKKLHGGFAG87CB,大洲二段,168.66,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPXOMLKKLHGGFAG87CB,大洲二段,24.12,非都市：特定農業區 ; 非都市編定：甲種建築用地,4,1,持分移轉
+RPWOMLKKLHGGFAG77CB,大洲二段,103.50,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWOMLKKLHGGFAG77CB,大洲二段,22.50,非都市：特定農業區 ; 非都市編定：甲種建築用地,1,1,全筆移轉
+RPWOMLKKLHGGFAG77CB,大洲二段,24.12,非都市：特定農業區 ; 非都市編定：甲種建築用地,4,1,持分移轉
